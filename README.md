@@ -91,25 +91,31 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-UP COUNTER:
+UP COUNTER:  
+
 ![WhatsApp Image 2023-05-31 at 14 27 49](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/7e515c9c-87ec-4042-b561-46b6630b129f)
 
-DOWN COUNTER:
+DOWN COUNTER:  
+
 ![WhatsApp Image 2023-05-31 at 14 29 42](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/db12cad9-02e0-4e07-88ed-2da8d3ff9d8d)
 
 ### TIMING DIGRAMS FOR COUNTER  
-UP COUNTER:
+UP COUNTER:  
+
 ![WhatsApp Image 2023-05-31 at 14 21 59](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/6abb4fb5-8348-4a16-897b-61802ce6d9fa)
 
-DOWN COUNTER:
+DOWN COUNTER:   
+
 ![WhatsApp Image 2023-05-31 at 14 33 21](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/7ba0a5b6-b3f7-46ea-bb97-8e8fed37e06e)
 
 ### TRUTH TABLE 
 
-UP COUNTER:
+UP COUNTER:  
+
 ![image](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/6d025e39-4c91-4f48-b61e-cba0f981cd5a)
 
-DOWN COUNTER:
+DOWN COUNTER:    
+
 ![image](https://github.com/kaviya2839/Exp-7-Synchornous-counters-/assets/120553351/9308bf69-7e76-4c84-84f9-a64d3a18e3e1)
 
 ### RESULTS 
